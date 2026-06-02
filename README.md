@@ -1,3 +1,9 @@
+## The Challenge
+
+Millions of hectares of land remain underutilized while communities face growing concerns around food security, environmental sustainability, and wellness.
+
+TANAH explores open frameworks that connect land, agriculture, community, and health through sustainable ecosystem design.
+
 # TANAH
 
 Open Source Framework for Land Activation, Food Resilience and Community Wellness.
