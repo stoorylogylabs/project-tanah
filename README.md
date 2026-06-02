@@ -10,6 +10,12 @@ TANAH is an open-source initiative exploring how underutilized land can be trans
 
 Open Source Framework for Land Activation, Food Resilience and Community Wellness.
 
+T = Tanah (Land)
+A = Agriculture
+N = Network
+A = Access
+H = Health
+
 ## Vision
 
 TANAH helps communities transform underutilized land into sustainable food-producing ecosystems.
@@ -54,3 +60,17 @@ Open Source Framework for Land Activation, Food Resilience and Community Wellnes
 - Ecosystem Mapping
 - Multilingual Knowledge Translation
 - Community Collaboration Support
+
+Diagram:
+
+LAND
+ ↓
+AGRICULTURE
+ ↓
+COMMUNITY
+ ↓
+FOOD
+ ↓
+HEALTH
+ ↓
+WELLNESS
