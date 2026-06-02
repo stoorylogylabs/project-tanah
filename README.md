@@ -4,6 +4,8 @@ Millions of hectares of land remain underutilized while communities face growing
 
 TANAH explores open frameworks that connect land, agriculture, community, and health through sustainable ecosystem design.
 
+TANAH is an open-source initiative exploring how underutilized land can be transformed into sustainable food, wellness, and community ecosystems through shared knowledge, AI-assisted tools, and collaborative innovation.
+
 # TANAH
 
 Open Source Framework for Land Activation, Food Resilience and Community Wellness.
